@@ -1,4 +1,5 @@
-a = 5
-b = 6
+def sum_num(a, b):
+    return a + b
 
-print(a + b)
+
+print(sum_num(1, 2))
